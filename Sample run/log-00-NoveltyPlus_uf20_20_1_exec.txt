@@ -1,0 +1,1245 @@
+17-Dec-18 21:17:29 - number of variables in the instance : INFO --> 20
+17-Dec-18 21:17:29 - number of clauses in the instance :  INFO --> 91
+17-Dec-18 21:17:29 - restart :  INFO --> 1
+17-Dec-18 21:17:29 - iteration number :  INFO --> 1
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-11  -9   8]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> -9
+17-Dec-18 21:17:29 - iteration number :  INFO --> 2
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-13   7  14]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 3
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [  1 -11   9]
+17-Dec-18 21:17:29 - current best config updated :  INFO --> [False  True False False False False False False False  True  True False
+  True  True False  True False False  True  True]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 4
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-11   5 -10]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> -10
+17-Dec-18 21:17:29 - iteration number :  INFO --> 5
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-14  17   5]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> -14
+17-Dec-18 21:17:29 - iteration number :  INFO --> 6
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-13   6  10]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 10
+17-Dec-18 21:17:29 - iteration number :  INFO --> 7
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ 9 17  3]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 17
+17-Dec-18 21:17:29 - iteration number :  INFO --> 8
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-13   6 -10]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 9
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [15 14  9]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 9
+17-Dec-18 21:17:29 - iteration number :  INFO --> 10
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-13   6  10]
+17-Dec-18 21:17:29 - current best config updated :  INFO --> [False  True False False False False False False  True False  True False
+ False False False  True  True False  True  True]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 11
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ 5 13 15]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 13
+17-Dec-18 21:17:29 - iteration number :  INFO --> 12
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ 14   5 -19]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 14
+17-Dec-18 21:17:29 - iteration number :  INFO --> 13
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-11  -9   8]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> -11
+17-Dec-18 21:17:29 - iteration number :  INFO --> 14
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-14  -9  18]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 18
+17-Dec-18 21:17:29 - iteration number :  INFO --> 15
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [11  6 10]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 6
+17-Dec-18 21:17:29 - iteration number :  INFO --> 16
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [11  8  1]
+17-Dec-18 21:17:29 - current best config updated :  INFO --> [False  True False False False  True False False  True False False False
+  True  True False  True  True  True  True  True]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 17
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-14   4   7]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> -14
+17-Dec-18 21:17:29 - iteration number :  INFO --> 18
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ 10   7 -19]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 7
+17-Dec-18 21:17:29 - iteration number :  INFO --> 19
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ -6   1 -18]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 1
+17-Dec-18 21:17:29 - iteration number :  INFO --> 20
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [10  4 -1]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> -1
+17-Dec-18 21:17:29 - iteration number :  INFO --> 21
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ 8  1 -9]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> -9
+17-Dec-18 21:17:29 - iteration number :  INFO --> 22
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ -6   1 -18]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 1
+17-Dec-18 21:17:29 - iteration number :  INFO --> 23
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ 14   5 -19]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 24
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-5 12 14]
+17-Dec-18 21:17:29 - current best config updated :  INFO --> [ True  True False False False  True  True False False False False False
+  True False False  True  True  True  True  True]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 25
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [15 14  9]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 14
+17-Dec-18 21:17:29 - iteration number :  INFO --> 26
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-19 -13   3]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 3
+17-Dec-18 21:17:29 - iteration number :  INFO --> 27
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-2  4 -3]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 28
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [10  4 -1]
+17-Dec-18 21:17:29 - current best config updated :  INFO --> [False  True False False False  True  True False False False False False
+  True  True False  True  True  True  True  True]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 29
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [11  8  1]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 11
+17-Dec-18 21:17:29 - iteration number :  INFO --> 30
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [  1 -11   9]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 1
+17-Dec-18 21:17:29 - iteration number :  INFO --> 31
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [10  4 -1]
+17-Dec-18 21:17:29 - current best config updated :  INFO --> [ True  True False False False  True  True False False False  True False
+  True  True False  True  True  True  True  True]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 32
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-19 -13   3]
+17-Dec-18 21:17:29 - current best config updated :  INFO --> [ True  True  True False False  True  True False False False  True False
+  True  True False  True  True  True  True  True]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 33
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ -1  -3 -19]
+17-Dec-18 21:17:29 - current best config updated :  INFO --> [ True  True  True False False  True  True False False False  True False
+  True  True False  True  True  True False  True]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 34
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [10  4 -1]
+17-Dec-18 21:17:29 - current best config updated :  INFO --> [ True  True  True False False  True  True False False False  True False
+  True  True False  True  True  True False  True]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 35
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ 19 -18 -14]
+17-Dec-18 21:17:29 - current best config updated :  INFO --> [ True  True  True False False  True  True False False False  True False
+  True  True False  True  True  True  True  True]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 36
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ -1  -3 -19]
+17-Dec-18 21:17:29 - current best config updated :  INFO --> [ True  True  True False False  True  True False False False  True False
+  True  True False  True  True  True  True  True]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 37
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-2  4 -3]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> -3
+17-Dec-18 21:17:29 - iteration number :  INFO --> 38
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [10  4 -1]
+17-Dec-18 21:17:29 - current best config updated :  INFO --> [False  True False False False  True  True False False False  True False
+  True  True False  True  True  True  True  True]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 39
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-19 -13   3]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> -13
+17-Dec-18 21:17:29 - iteration number :  INFO --> 40
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ -6   1 -18]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> -6
+17-Dec-18 21:17:29 - iteration number :  INFO --> 41
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ 5 13 15]
+17-Dec-18 21:17:29 - current best config updated :  INFO --> [False  True False False  True False  True False False False  True False
+ False  True False  True  True  True  True  True]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 42
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-19  -5   6]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 6
+17-Dec-18 21:17:29 - iteration number :  INFO --> 43
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ -6   1 -18]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 44
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-19  -5   6]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 6
+17-Dec-18 21:17:29 - iteration number :  INFO --> 45
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ -6   1 -18]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> -18
+17-Dec-18 21:17:29 - iteration number :  INFO --> 46
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ 8 18 -6]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 47
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ -6   1 -18]
+17-Dec-18 21:17:29 - current best config updated :  INFO --> [False  True False False  True  True  True False False False  True False
+ False  True False  True  True False  True  True]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 48
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ -7  18 -20]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> -7
+17-Dec-18 21:17:29 - iteration number :  INFO --> 49
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [  1 -11   9]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 1
+17-Dec-18 21:17:29 - iteration number :  INFO --> 50
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ 8 18 -6]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 18
+17-Dec-18 21:17:29 - iteration number :  INFO --> 51
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ 7  4 13]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 4
+17-Dec-18 21:17:29 - iteration number :  INFO --> 52
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ 7 10 -5]
+17-Dec-18 21:17:29 - current best config updated :  INFO --> [ True  True False  True  True  True False False False False  True False
+ False  True False  True  True  True  True  True]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 53
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ 7 10 -5]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 7
+17-Dec-18 21:17:29 - iteration number :  INFO --> 54
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-4  9 -7]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> -7
+17-Dec-18 21:17:29 - iteration number :  INFO --> 55
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ 7 10 -5]
+17-Dec-18 21:17:29 - current best config updated :  INFO --> [ True  True False  True  True  True False False False False  True False
+ False  True False  True  True  True  True  True]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 56
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ 7 10 -5]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 7
+17-Dec-18 21:17:29 - iteration number :  INFO --> 57
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ -4  -7 -14]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 58
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [10  4 -1]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 59
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ -4  -7 -14]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> -7
+17-Dec-18 21:17:29 - iteration number :  INFO --> 60
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ 7 10 -5]
+17-Dec-18 21:17:29 - current best config updated :  INFO --> [ True  True False  True  True  True False False False False  True False
+ False  True False  True  True  True  True  True]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 61
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ 10   7 -19]
+17-Dec-18 21:17:29 - current best config updated :  INFO --> [ True  True False  True  True  True  True False False False  True False
+ False  True False  True  True  True  True  True]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 62
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-4  9 -7]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 9
+17-Dec-18 21:17:29 - iteration number :  INFO --> 63
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-11  -9   8]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 8
+17-Dec-18 21:17:29 - iteration number :  INFO --> 64
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-19  -8 -17]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> -17
+17-Dec-18 21:17:29 - iteration number :  INFO --> 65
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-9 -4 10]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 66
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-1 17  3]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 3
+17-Dec-18 21:17:29 - iteration number :  INFO --> 67
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ -4  -7 -14]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> -7
+17-Dec-18 21:17:29 - iteration number :  INFO --> 68
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ 7 -3 13]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 13
+17-Dec-18 21:17:29 - iteration number :  INFO --> 69
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ 10   7 -19]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 7
+17-Dec-18 21:17:29 - iteration number :  INFO --> 70
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ -1  -3 -19]
+17-Dec-18 21:17:29 - current best config updated :  INFO --> [ True  True False  True  True  True  True  True False False  True False
+  True  True False  True False  True  True  True]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 71
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-19 -13   3]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 72
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ -1  -3 -19]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> -3
+17-Dec-18 21:17:29 - iteration number :  INFO --> 73
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-19 -13   3]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> -19
+17-Dec-18 21:17:29 - iteration number :  INFO --> 74
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ -4  -7 -14]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> -7
+17-Dec-18 21:17:29 - iteration number :  INFO --> 75
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ 7 10 -5]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 7
+17-Dec-18 21:17:29 - iteration number :  INFO --> 76
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-4  9 -7]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 77
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ 19 -18 -14]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 78
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ 9 17  3]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 79
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ 7 10 -5]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 10
+17-Dec-18 21:17:29 - iteration number :  INFO --> 80
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-18 -10  12]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> -10
+17-Dec-18 21:17:29 - iteration number :  INFO --> 81
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ -1  -3 -19]
+17-Dec-18 21:17:29 - current best config updated :  INFO --> [ True  True False  True  True  True False  True False False  True False
+  True  True False  True False  True  True  True]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 82
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ 7  9 -8]
+17-Dec-18 21:17:29 - current best config updated :  INFO --> [ True  True False  True  True  True False  True False False  True False
+  True  True False  True False  True  True  True]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 83
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ 10   7 -19]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 7
+17-Dec-18 21:17:29 - iteration number :  INFO --> 84
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ -4  -7 -14]
+17-Dec-18 21:17:29 - current best config updated :  INFO --> [ True  True False False  True  True  True  True False False  True False
+  True  True False  True False  True  True  True]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 85
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ 9 17  3]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 9
+17-Dec-18 21:17:29 - iteration number :  INFO --> 86
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ 4 -9 10]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> -9
+17-Dec-18 21:17:29 - iteration number :  INFO --> 87
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-19 -13   3]
+17-Dec-18 21:17:29 - current best config updated :  INFO --> [ True  True False False  True  True  True  True False False  True False
+  True  True False  True False  True  True  True]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 88
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ -8   4 -11]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> -8
+17-Dec-18 21:17:29 - iteration number :  INFO --> 89
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-1 17  3]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> -1
+17-Dec-18 21:17:29 - iteration number :  INFO --> 90
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-19 -13   3]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> -19
+17-Dec-18 21:17:29 - iteration number :  INFO --> 91
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [  1   4 -13]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> -13
+17-Dec-18 21:17:29 - iteration number :  INFO --> 92
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ 13   1 -16]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 1
+17-Dec-18 21:17:29 - iteration number :  INFO --> 93
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ 9 17  3]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 9
+17-Dec-18 21:17:29 - iteration number :  INFO --> 94
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-11  -9   8]
+17-Dec-18 21:17:29 - current best config updated :  INFO --> [ True  True False False  True  True  True False  True False  True False
+ False  True False  True False  True False  True]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 95
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-9 17 -1]
+17-Dec-18 21:17:29 - current best config updated :  INFO --> [ True  True False False  True  True  True False  True False  True False
+ False  True False  True  True  True False  True]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 96
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ 4 -9 10]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 10
+17-Dec-18 21:17:29 - iteration number :  INFO --> 97
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-10  -1  15]
+17-Dec-18 21:17:29 - current best config updated :  INFO --> [ True  True False False  True  True  True False  True False  True False
+ False  True False  True  True  True False  True]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 98
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ 4 -9 10]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 10
+17-Dec-18 21:17:29 - iteration number :  INFO --> 99
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-14 -10 -11]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> -11
+17-Dec-18 21:17:29 - iteration number :  INFO --> 100
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [  8 -10  12]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> -10
+17-Dec-18 21:17:29 - iteration number :  INFO --> 101
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ 19 -18 -14]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> -18
+17-Dec-18 21:17:29 - iteration number :  INFO --> 102
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [10  4 -1]
+17-Dec-18 21:17:29 - current best config updated :  INFO --> [False  True False False  True  True  True False  True False False False
+ False  True False  True  True False False  True]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 103
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ -7  18 -20]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 18
+17-Dec-18 21:17:29 - iteration number :  INFO --> 104
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ -6   1 -18]
+17-Dec-18 21:17:29 - current best config updated :  INFO --> [False  True False False  True  True  True False  True False False False
+ False  True False  True  True False False  True]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 105
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ 4 -9 10]
+17-Dec-18 21:17:29 - current best config updated :  INFO --> [False  True False False  True  True  True False  True  True False False
+ False  True False  True  True False False  True]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 106
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ 8  1 -9]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 8
+17-Dec-18 21:17:29 - iteration number :  INFO --> 107
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-14  -9  18]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 18
+17-Dec-18 21:17:29 - iteration number :  INFO --> 108
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ -6   1 -18]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> -18
+17-Dec-18 21:17:29 - iteration number :  INFO --> 109
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ 13   1 -16]
+17-Dec-18 21:17:29 - current best config updated :  INFO --> [False  True False False  True  True  True  True  True  True False False
+  True  True False  True  True False False  True]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 110
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-14  -9  18]
+17-Dec-18 21:17:29 - current best config updated :  INFO --> [False  True False False  True  True  True  True  True  True False False
+  True  True False  True  True  True False  True]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 111
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-18 -10  12]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 12
+17-Dec-18 21:17:29 - iteration number :  INFO --> 112
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ 19 -18 -14]
+17-Dec-18 21:17:29 - current best config updated :  INFO --> [False  True False False  True  True  True  True  True  True False  True
+  True  True False  True  True  True False  True]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 113
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [  1   4 -13]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 4
+17-Dec-18 21:17:29 - iteration number :  INFO --> 114
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ -4  -7 -14]
+17-Dec-18 21:17:29 - current best config updated :  INFO --> [False  True False  True  True  True False  True  True  True False  True
+  True  True False  True  True  True False  True]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 115
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-18  -2 -12]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> -2
+17-Dec-18 21:17:29 - iteration number :  INFO --> 116
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ 1  2 -6]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 2
+17-Dec-18 21:17:29 - iteration number :  INFO --> 117
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-9 11 -5]
+17-Dec-18 21:17:29 - current best config updated :  INFO --> [False  True False  True  True  True False  True  True  True  True  True
+  True  True False  True  True  True False  True]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 118
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ -6   1 -18]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> -18
+17-Dec-18 21:17:29 - iteration number :  INFO --> 119
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ -6 -12  18]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 18
+17-Dec-18 21:17:29 - iteration number :  INFO --> 120
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ -8 -18  19]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> -8
+17-Dec-18 21:17:29 - iteration number :  INFO --> 121
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ 19 -18 -14]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> -18
+17-Dec-18 21:17:29 - iteration number :  INFO --> 122
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [  8  -2 -12]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> -12
+17-Dec-18 21:17:29 - iteration number :  INFO --> 123
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ 8 18 -6]
+17-Dec-18 21:17:29 - current best config updated :  INFO --> [False  True False  True  True  True False  True  True  True  True False
+  True  True False  True  True False False  True]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 124
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-14 -10 -11]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> -10
+17-Dec-18 21:17:29 - iteration number :  INFO --> 125
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-9 10 -5]
+17-Dec-18 21:17:29 - current best config updated :  INFO --> [False  True False  True False  True False  True  True False  True False
+  True  True False  True  True False False  True]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 126
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-9 -4 10]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 10
+17-Dec-18 21:17:29 - iteration number :  INFO --> 127
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-14  -9  18]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 18
+17-Dec-18 21:17:29 - iteration number :  INFO --> 128
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ -6   1 -18]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 129
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-14  -9  18]
+17-Dec-18 21:17:29 - current best config updated :  INFO --> [False  True False  True False  True False  True  True  True  True False
+  True  True False  True  True False False  True]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 130
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-11   5 -10]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> -10
+17-Dec-18 21:17:29 - iteration number :  INFO --> 131
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-14  -9  18]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 18
+17-Dec-18 21:17:29 - iteration number :  INFO --> 132
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [19 10  1]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 10
+17-Dec-18 21:17:29 - iteration number :  INFO --> 133
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ -6   1 -18]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> -6
+17-Dec-18 21:17:29 - iteration number :  INFO --> 134
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-13   6 -10]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> -10
+17-Dec-18 21:17:29 - iteration number :  INFO --> 135
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ -8 -18  19]
+17-Dec-18 21:17:29 - current best config updated :  INFO --> [False  True False  True False False False  True  True False  True False
+  True  True False  True  True  True  True  True]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 136
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-9 -4 10]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 10
+17-Dec-18 21:17:29 - iteration number :  INFO --> 137
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-13   6 -10]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 138
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-13   6  10]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> -13
+17-Dec-18 21:17:29 - iteration number :  INFO --> 139
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-19  -8 -17]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 140
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [19 10  1]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 1
+17-Dec-18 21:17:29 - iteration number :  INFO --> 141
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ -8 -18  19]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 19
+17-Dec-18 21:17:29 - iteration number :  INFO --> 142
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-9 -4 10]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 10
+17-Dec-18 21:17:29 - iteration number :  INFO --> 143
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ 13 -10 -16]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> -16
+17-Dec-18 21:17:29 - iteration number :  INFO --> 144
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-11   5 -10]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 5
+17-Dec-18 21:17:29 - iteration number :  INFO --> 145
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-19  -5   6]
+17-Dec-18 21:17:29 - current best config updated :  INFO --> [ True  True False  True  True False False  True  True  True  True False
+ False  True False False  True  True False  True]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 146
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-10  -1  15]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> -10
+17-Dec-18 21:17:29 - iteration number :  INFO --> 147
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ -8 -18  19]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> -18
+17-Dec-18 21:17:29 - iteration number :  INFO --> 148
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-9 -4 10]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 10
+17-Dec-18 21:17:29 - iteration number :  INFO --> 149
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-10  -1  15]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> -10
+17-Dec-18 21:17:29 - iteration number :  INFO --> 150
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ 7 10 -5]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> -5
+17-Dec-18 21:17:29 - iteration number :  INFO --> 151
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-9 -4 10]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 10
+17-Dec-18 21:17:29 - iteration number :  INFO --> 152
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-14  -9  18]
+17-Dec-18 21:17:29 - current best config updated :  INFO --> [ True  True False  True False False False  True False  True  True False
+ False  True False False  True False False  True]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 153
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ 7  9 -8]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 9
+17-Dec-18 21:17:29 - iteration number :  INFO --> 154
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ 5 13 15]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 5
+17-Dec-18 21:17:29 - iteration number :  INFO --> 155
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-14  -9  18]
+17-Dec-18 21:17:29 - current best config updated :  INFO --> [ True  True False  True  True False False  True  True  True  True False
+ False  True False False  True False False  True]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 156
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-14 -10 -11]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> -10
+17-Dec-18 21:17:29 - iteration number :  INFO --> 157
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-9 10 -5]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 10
+17-Dec-18 21:17:29 - iteration number :  INFO --> 158
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-14 -10 -11]
+17-Dec-18 21:17:29 - current best config updated :  INFO --> [ True  True False  True  True False False  True  True False  True False
+ False  True False False  True False False  True]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 159
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-14  -9  18]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> -9
+17-Dec-18 21:17:29 - iteration number :  INFO --> 160
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ 7 10 -5]
+17-Dec-18 21:17:29 - current best config updated :  INFO --> [ True  True False  True  True False False  True False False  True False
+ False  True False False  True False False  True]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 161
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ 7  9 -8]
+17-Dec-18 21:17:29 - current best config updated :  INFO --> [ True  True False  True  True False  True  True False False  True False
+ False  True False False  True False False  True]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 162
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ -4  -7 -14]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 163
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ -7  18 -20]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> -20
+17-Dec-18 21:17:29 - iteration number :  INFO --> 164
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ -8   4 -11]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> -11
+17-Dec-18 21:17:29 - iteration number :  INFO --> 165
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ 3 20  9]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 166
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ -7  18 -20]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 167
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [10  4 -1]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 4
+17-Dec-18 21:17:29 - iteration number :  INFO --> 168
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ 3 20  9]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 20
+17-Dec-18 21:17:29 - iteration number :  INFO --> 169
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ 11  16 -20]
+17-Dec-18 21:17:29 - current best config updated :  INFO --> [ True  True False  True  True False  True  True False False  True False
+ False  True False False  True False False  True]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 170
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ -4  -7 -14]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 171
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ -7  18 -20]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 18
+17-Dec-18 21:17:29 - iteration number :  INFO --> 172
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ -8   4 -11]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> -11
+17-Dec-18 21:17:29 - iteration number :  INFO --> 173
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [10  4 -1]
+17-Dec-18 21:17:29 - current best config updated :  INFO --> [ True  True False  True  True False  True  True False False False False
+ False  True False False  True  True False  True]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 174
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ 19 -18 -14]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 19
+17-Dec-18 21:17:29 - iteration number :  INFO --> 175
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-19  -8 -17]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 176
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ 19 -18 -14]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 177
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ -4  -7 -14]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 178
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-19  -5   6]
+17-Dec-18 21:17:29 - current best config updated :  INFO --> [ True  True False False  True False  True  True False False False False
+ False  True False False  True  True  True  True]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 179
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [10  4 -1]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> -1
+17-Dec-18 21:17:29 - iteration number :  INFO --> 180
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ 11  16 -20]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 16
+17-Dec-18 21:17:29 - iteration number :  INFO --> 181
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-19  -8 -17]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> -8
+17-Dec-18 21:17:29 - iteration number :  INFO --> 182
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [11  6 10]
+17-Dec-18 21:17:29 - current best config updated :  INFO --> [False  True False False  True False  True False False False False False
+ False  True False  True  True  True  True  True]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 183
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [11  6 10]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 6
+17-Dec-18 21:17:29 - iteration number :  INFO --> 184
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [11  8  1]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 11
+17-Dec-18 21:17:29 - iteration number :  INFO --> 185
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ 13   1 -16]
+17-Dec-18 21:17:29 - current best config updated :  INFO --> [False  True False False  True  True  True False False False  True False
+ False  True False False  True  True  True  True]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 186
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ -6   1 -18]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 187
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [  1 -11   9]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 188
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [10  4 -1]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 4
+17-Dec-18 21:17:29 - iteration number :  INFO --> 189
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-19  -5   6]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 190
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ -4  -7 -14]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> -4
+17-Dec-18 21:17:29 - iteration number :  INFO --> 191
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [10  4 -1]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 10
+17-Dec-18 21:17:29 - iteration number :  INFO --> 192
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ -1  12 -10]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> -1
+17-Dec-18 21:17:29 - iteration number :  INFO --> 193
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-18 -10  12]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 194
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [  8 -10  12]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 12
+17-Dec-18 21:17:29 - iteration number :  INFO --> 195
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [  9 -10  13]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 13
+17-Dec-18 21:17:29 - iteration number :  INFO --> 196
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [  1 -11   9]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 197
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ -6 -12  18]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> -12
+17-Dec-18 21:17:29 - iteration number :  INFO --> 198
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-10  -1 -13]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> -13
+17-Dec-18 21:17:29 - iteration number :  INFO --> 199
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-14 -10 -11]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> -14
+17-Dec-18 21:17:29 - iteration number :  INFO --> 200
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-10  -1  15]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> -10
+17-Dec-18 21:17:29 - iteration number :  INFO --> 201
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [10  4 -1]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 4
+17-Dec-18 21:17:29 - iteration number :  INFO --> 202
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ 8 18 -6]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 203
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-5 12 14]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 12
+17-Dec-18 21:17:29 - iteration number :  INFO --> 204
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-12  16  -4]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 205
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-18   9 -12]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> -12
+17-Dec-18 21:17:29 - iteration number :  INFO --> 206
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-4  9 -7]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> -7
+17-Dec-18 21:17:29 - iteration number :  INFO --> 207
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ 7 10 -5]
+17-Dec-18 21:17:29 - current best config updated :  INFO --> [ True  True False  True  True  True  True False False False  True False
+ False False False  True  True  True  True  True]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 208
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [15 14  9]
+17-Dec-18 21:17:29 - current best config updated :  INFO --> [ True  True False  True  True  True  True False  True False  True False
+ False False False  True  True  True  True  True]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 209
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-5 12 14]
+17-Dec-18 21:17:29 - current best config updated :  INFO --> [ True  True False  True  True  True  True False  True False  True False
+ False False False  True  True  True  True  True]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 210
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-5 12 14]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 12
+17-Dec-18 21:17:29 - iteration number :  INFO --> 211
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-9 10 -5]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> -5
+17-Dec-18 21:17:29 - iteration number :  INFO --> 212
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ 14   5 -19]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 5
+17-Dec-18 21:17:29 - iteration number :  INFO --> 213
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-18  -2 -12]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 214
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-5 12 14]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 12
+17-Dec-18 21:17:29 - iteration number :  INFO --> 215
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-11  -9   8]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> -11
+17-Dec-18 21:17:29 - iteration number :  INFO --> 216
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-18  -2 -12]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 217
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-9 11 -5]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> -9
+17-Dec-18 21:17:29 - iteration number :  INFO --> 218
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [15 14  9]
+17-Dec-18 21:17:29 - current best config updated :  INFO --> [ True  True False  True  True  True  True False  True False False False
+ False False False  True  True  True  True  True]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 219
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-9 -4 10]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 220
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ 9 14 11]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 9
+17-Dec-18 21:17:29 - iteration number :  INFO --> 221
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-5 12 14]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> -5
+17-Dec-18 21:17:29 - iteration number :  INFO --> 222
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-9 -4 10]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> -9
+17-Dec-18 21:17:29 - iteration number :  INFO --> 223
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ 5 13 15]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 5
+17-Dec-18 21:17:29 - iteration number :  INFO --> 224
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [15 14  9]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 9
+17-Dec-18 21:17:29 - iteration number :  INFO --> 225
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-9 11 -5]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> -5
+17-Dec-18 21:17:29 - iteration number :  INFO --> 226
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ 5 13 15]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 13
+17-Dec-18 21:17:29 - iteration number :  INFO --> 227
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-19 -13   3]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> -13
+17-Dec-18 21:17:29 - iteration number :  INFO --> 228
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ 5 13 15]
+17-Dec-18 21:17:29 - current best config updated :  INFO --> [ True  True False  True False  True  True False  True False False False
+ False False False  True  True  True  True  True]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 229
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-9 -4 10]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 10
+17-Dec-18 21:17:29 - iteration number :  INFO --> 230
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-18 -10  12]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> -18
+17-Dec-18 21:17:29 - iteration number :  INFO --> 231
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ -7  18 -20]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 18
+17-Dec-18 21:17:29 - iteration number :  INFO --> 232
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ 13 -10 -16]
+17-Dec-18 21:17:29 - current best config updated :  INFO --> [ True  True False  True False  True  True False  True  True False False
+ False False False False  True  True  True  True]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 233
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ 5 13 15]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 5
+17-Dec-18 21:17:29 - iteration number :  INFO --> 234
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [  8 -10  12]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> -10
+17-Dec-18 21:17:29 - iteration number :  INFO --> 235
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-9 11 -5]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 11
+17-Dec-18 21:17:29 - iteration number :  INFO --> 236
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-9 -4 10]
+17-Dec-18 21:17:29 - current best config updated :  INFO --> [ True  True False  True  True  True  True False  True False  True False
+ False False False False  True  True  True  True]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 237
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-11  -9   8]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> -9
+17-Dec-18 21:17:29 - iteration number :  INFO --> 238
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-4  9 -7]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> -4
+17-Dec-18 21:17:29 - iteration number :  INFO --> 239
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [15 14  9]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 9
+17-Dec-18 21:17:29 - iteration number :  INFO --> 240
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ 4 -9 10]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 241
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-5 12 14]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 12
+17-Dec-18 21:17:29 - iteration number :  INFO --> 242
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-12  16  -4]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> -4
+17-Dec-18 21:17:29 - iteration number :  INFO --> 243
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-18  -2 -12]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> -18
+17-Dec-18 21:17:29 - iteration number :  INFO --> 244
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-11  -9   8]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> -11
+17-Dec-18 21:17:29 - iteration number :  INFO --> 245
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ 11  16 -20]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> -20
+17-Dec-18 21:17:29 - iteration number :  INFO --> 246
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ -6 -12  18]
+17-Dec-18 21:17:29 - current best config updated :  INFO --> [ True  True False False  True  True  True False  True False False  True
+ False False False False  True  True  True False]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 247
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [  8  -2 -12]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 8
+17-Dec-18 21:17:29 - iteration number :  INFO --> 248
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-9 11 -5]
+17-Dec-18 21:17:29 - current best config updated :  INFO --> [ True  True False False  True  True  True  True  True False  True  True
+ False False False False  True  True  True False]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 249
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-9 10 -5]
+17-Dec-18 21:17:29 - current best config updated :  INFO --> [ True  True False False  True  True  True  True  True False  True  True
+ False False False False  True  True  True False]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 250
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [10  4 -1]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 4
+17-Dec-18 21:17:29 - iteration number :  INFO --> 251
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ -1  -5 -12]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> -1
+17-Dec-18 21:17:29 - iteration number :  INFO --> 252
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [  1 -12  20]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 1
+17-Dec-18 21:17:29 - iteration number :  INFO --> 253
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-18  -2 -12]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> -18
+17-Dec-18 21:17:29 - iteration number :  INFO --> 254
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-19  -8 -17]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> -19
+17-Dec-18 21:17:29 - iteration number :  INFO --> 255
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ -6 -12  18]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 18
+17-Dec-18 21:17:29 - iteration number :  INFO --> 256
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-12  16  -4]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> -4
+17-Dec-18 21:17:29 - iteration number :  INFO --> 257
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-9 10 -5]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> -5
+17-Dec-18 21:17:29 - iteration number :  INFO --> 258
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [10  4 -1]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 4
+17-Dec-18 21:17:29 - iteration number :  INFO --> 259
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-18  -2 -12]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> -18
+17-Dec-18 21:17:29 - iteration number :  INFO --> 260
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-9 -4 10]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> -9
+17-Dec-18 21:17:29 - iteration number :  INFO --> 261
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ 3 20  9]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 3
+17-Dec-18 21:17:29 - iteration number :  INFO --> 262
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ -6 -12  18]
+17-Dec-18 21:17:29 - current best config updated :  INFO --> [ True  True  True  True False  True  True  True False False  True  True
+ False False False False  True False False False]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 263
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ 5 13 15]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 5
+17-Dec-18 21:17:29 - iteration number :  INFO --> 264
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-12  16  -4]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 16
+17-Dec-18 21:17:29 - iteration number :  INFO --> 265
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [15 14  9]
+17-Dec-18 21:17:29 - current best config updated :  INFO --> [ True  True  True  True  True  True  True  True False False  True  True
+ False False  True  True  True False False False]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 266
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ -6 -12  18]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 18
+17-Dec-18 21:17:29 - iteration number :  INFO --> 267
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-4  9 -7]
+17-Dec-18 21:17:29 - current best config updated :  INFO --> [ True  True  True  True  True  True  True  True False False  True  True
+ False False  True  True  True  True False False]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 268
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-18   9 -12]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 9
+17-Dec-18 21:17:29 - iteration number :  INFO --> 269
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ -8 -18  19]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 19
+17-Dec-18 21:17:29 - iteration number :  INFO --> 270
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ -1  -5 -12]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> -5
+17-Dec-18 21:17:29 - iteration number :  INFO --> 271
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-19  -8 -17]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> -19
+17-Dec-18 21:17:29 - iteration number :  INFO --> 272
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ -8 -18  19]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> -8
+17-Dec-18 21:17:29 - iteration number :  INFO --> 273
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [  8  -2 -12]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> -2
+17-Dec-18 21:17:29 - iteration number :  INFO --> 274
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ -9 -17 -15]
+17-Dec-18 21:17:29 - current best config updated :  INFO --> [ True False  True  True False  True  True False  True False  True  True
+ False False  True  True  True  True False False]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 275
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-11  -9   8]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 276
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ -8 -18  19]
+17-Dec-18 21:17:29 - current best config updated :  INFO --> [ True False  True  True False  True  True  True  True False  True  True
+ False False  True  True  True False False False]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 277
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-9 -4 10]
+17-Dec-18 21:17:29 - current best config updated :  INFO --> [ True False  True  True False  True  True  True False False  True  True
+ False False  True  True  True False False False]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 278
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ -6 -12  18]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> -6
+17-Dec-18 21:17:29 - iteration number :  INFO --> 279
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ 18   2 -15]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 18
+17-Dec-18 21:17:29 - iteration number :  INFO --> 280
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-18   9 -12]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> -18
+17-Dec-18 21:17:29 - iteration number :  INFO --> 281
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-4  9 -7]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> -7
+17-Dec-18 21:17:29 - iteration number :  INFO --> 282
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ 18   2 -15]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 283
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ 7 -3 13]
+17-Dec-18 21:17:29 - current best config updated :  INFO --> [ True False  True  True False False False  True False False  True  True
+ False False  True  True  True  True False False]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 284
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ -8 -18  19]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 285
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ 7 -3 13]
+17-Dec-18 21:17:29 - current best config updated :  INFO --> [ True False  True  True False False False False False False  True  True
+ False False  True  True  True  True False False]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 286
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ 7 -3 13]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 7
+17-Dec-18 21:17:29 - iteration number :  INFO --> 287
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-18   9 -12]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> -18
+17-Dec-18 21:17:29 - iteration number :  INFO --> 288
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ 18   2 -15]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 2
+17-Dec-18 21:17:29 - iteration number :  INFO --> 289
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [  8  -2 -12]
+17-Dec-18 21:17:29 - current best config updated :  INFO --> [ True  True  True  True False False  True False False False  True  True
+ False False  True  True  True False False False]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 290
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-4  9 -7]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> -4
+17-Dec-18 21:17:29 - iteration number :  INFO --> 291
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [  8  -2 -12]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> -12
+17-Dec-18 21:17:29 - iteration number :  INFO --> 292
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-2  4 -3]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> -2
+17-Dec-18 21:17:29 - iteration number :  INFO --> 293
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [10  4 -1]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> -1
+17-Dec-18 21:17:29 - iteration number :  INFO --> 294
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ 18   2 -15]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 295
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [19 10  1]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 19
+17-Dec-18 21:17:29 - iteration number :  INFO --> 296
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ 13   1 -16]
+17-Dec-18 21:17:29 - current best config updated :  INFO --> [ True False  True False False False  True False False False  True False
+ False False  True  True  True  True  True False]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 297
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [10  4 -1]
+17-Dec-18 21:17:29 - current best config updated :  INFO --> [ True False  True False False False  True False False False  True False
+ False False  True  True  True  True  True False]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 298
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [  2 -16   4]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 4
+17-Dec-18 21:17:29 - iteration number :  INFO --> 299
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ 14   5 -19]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 300
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-4  9 -7]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 9
+17-Dec-18 21:17:29 - iteration number :  INFO --> 301
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-11  -9   8]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 8
+17-Dec-18 21:17:29 - iteration number :  INFO --> 302
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ -8 -18  19]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> -18
+17-Dec-18 21:17:29 - iteration number :  INFO --> 303
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ -9 -17 -15]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> -15
+17-Dec-18 21:17:29 - iteration number :  INFO --> 304
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [15 12 -3]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 12
+17-Dec-18 21:17:29 - iteration number :  INFO --> 305
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ 5 13 15]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 5
+17-Dec-18 21:17:29 - iteration number :  INFO --> 306
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-9 10 -5]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> -5
+17-Dec-18 21:17:29 - iteration number :  INFO --> 307
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-9 -4 10]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> -4
+17-Dec-18 21:17:29 - iteration number :  INFO --> 308
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ -8   4 -11]
+17-Dec-18 21:17:29 - current best config updated :  INFO --> [ True False  True False False False  True  True  True False False  True
+ False False False  True  True False False False]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 309
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ 4 -9 10]
+17-Dec-18 21:17:29 - current best config updated :  INFO --> [ True False  True False False False  True  True  True False False  True
+ False False False  True  True False False False]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 310
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ 4 -9 10]
+17-Dec-18 21:17:29 - current best config updated :  INFO --> [ True False  True  True False False  True  True  True False False  True
+ False False False  True  True False False False]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 311
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ 5 13 15]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 5
+17-Dec-18 21:17:29 - iteration number :  INFO --> 312
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [15 -3 18]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 15
+17-Dec-18 21:17:29 - iteration number :  INFO --> 313
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ -1  -5 -12]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> -5
+17-Dec-18 21:17:29 - iteration number :  INFO --> 314
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ 18   2 -15]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> -15
+17-Dec-18 21:17:29 - iteration number :  INFO --> 315
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-9 -4 10]
+17-Dec-18 21:17:29 - current best config updated :  INFO --> [ True False  True False False False  True  True  True False False  True
+ False False False  True  True False False False]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 316
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [11  6 10]
+17-Dec-18 21:17:29 - current best config updated :  INFO --> [ True False  True False False False  True  True  True False  True  True
+ False False False  True  True False False False]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 317
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ 5 13 15]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 318
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [10  4 -1]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 10
+17-Dec-18 21:17:29 - iteration number :  INFO --> 319
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ -8   4 -11]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 4
+17-Dec-18 21:17:29 - iteration number :  INFO --> 320
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-11   5 -10]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 321
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-9 -4 10]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 10
+17-Dec-18 21:17:29 - iteration number :  INFO --> 322
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-11   5 -10]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 323
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-9 -4 10]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> -9
+17-Dec-18 21:17:29 - iteration number :  INFO --> 324
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ 18   2 -15]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 18
+17-Dec-18 21:17:29 - iteration number :  INFO --> 325
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-4  9 -7]
+17-Dec-18 21:17:29 - current best config updated :  INFO --> [ True False  True  True False False False  True False False  True  True
+ False False  True  True  True  True False False]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 326
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ -8 -18  19]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> -18
+17-Dec-18 21:17:29 - iteration number :  INFO --> 327
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ 7 -3 13]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 7
+17-Dec-18 21:17:29 - iteration number :  INFO --> 328
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ 18   2 -15]
+17-Dec-18 21:17:29 - current best config updated :  INFO --> [ True False  True  True False False  True  True False False  True  True
+ False False False  True  True False False False]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 329
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ 5 13 15]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 5
+17-Dec-18 21:17:29 - iteration number :  INFO --> 330
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [15 14  9]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 331
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ 6 -5 -3]
+17-Dec-18 21:17:29 - current best config updated :  INFO --> [ True False  True  True False False  True  True False False  True  True
+ False  True False  True  True False False False]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 332
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ 5 13 15]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 13
+17-Dec-18 21:17:29 - iteration number :  INFO --> 333
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-4  9 -7]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> -7
+17-Dec-18 21:17:29 - iteration number :  INFO --> 334
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ 7  9 -8]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 7
+17-Dec-18 21:17:29 - iteration number :  INFO --> 335
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-4  9 -7]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> -4
+17-Dec-18 21:17:29 - iteration number :  INFO --> 336
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [15 -3 18]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> -3
+17-Dec-18 21:17:29 - iteration number :  INFO --> 337
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [10  4 -1]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 338
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-10  -1 -13]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> -10
+17-Dec-18 21:17:29 - iteration number :  INFO --> 339
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [  2 -16   4]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> -16
+17-Dec-18 21:17:29 - iteration number :  INFO --> 340
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [10  4 -1]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 341
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ 3 20  9]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 3
+17-Dec-18 21:17:29 - iteration number :  INFO --> 342
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [15 -3 18]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 343
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-11   5 -10]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 344
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [20 16  5]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 20
+17-Dec-18 21:17:29 - iteration number :  INFO --> 345
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ 18   2 -15]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 2
+17-Dec-18 21:17:29 - iteration number :  INFO --> 346
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-13   6  10]
+17-Dec-18 21:17:29 - current best config updated :  INFO --> [ True  True  True False False False  True  True False False  True  True
+  True  True  True False  True False False  True]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 347
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ -7  18 -20]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 18
+17-Dec-18 21:17:29 - iteration number :  INFO --> 348
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [10  4 -1]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 4
+17-Dec-18 21:17:29 - iteration number :  INFO --> 349
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-18  -2 -12]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> -2
+17-Dec-18 21:17:29 - iteration number :  INFO --> 350
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-12  16  -4]
+17-Dec-18 21:17:29 - current best config updated :  INFO --> [ True False  True  True False False  True  True False False  True  True
+  True  True  True False  True  True False  True]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 351
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ 16 -12   2]
+17-Dec-18 21:17:29 - current best config updated :  INFO --> [ True  True  True  True False False  True  True False False  True  True
+  True  True  True False  True  True False  True]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 352
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-13   6  10]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 6
+17-Dec-18 21:17:29 - iteration number :  INFO --> 353
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ 19 -18 -14]
+17-Dec-18 21:17:29 - current best config updated :  INFO --> [ True  True  True  True False  True  True  True False False  True  True
+  True  True  True False  True False False  True]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 354
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ -6 -12  18]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> -6
+17-Dec-18 21:17:29 - iteration number :  INFO --> 355
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ -4  -7 -14]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> -14
+17-Dec-18 21:17:29 - iteration number :  INFO --> 356
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-13   6  10]
+17-Dec-18 21:17:29 - current best config updated :  INFO --> [ True  True  True  True False  True  True  True False False  True  True
+  True False  True False  True False False  True]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 357
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-12  16  -4]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> -12
+17-Dec-18 21:17:29 - iteration number :  INFO --> 358
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-4  9 -7]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 9
+17-Dec-18 21:17:29 - iteration number :  INFO --> 359
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ -7  18 -20]
+17-Dec-18 21:17:29 - current best config updated :  INFO --> [ True  True  True  True False  True  True  True  True False  True False
+  True False  True False  True False False  True]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 360
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ -7  18 -20]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 18
+17-Dec-18 21:17:29 - iteration number :  INFO --> 361
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ -8 -18  19]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 19
+17-Dec-18 21:17:29 - iteration number :  INFO --> 362
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-19  -8 -17]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 363
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-9 -4 10]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> -9
+17-Dec-18 21:17:29 - iteration number :  INFO --> 364
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-4  9 -7]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> -7
+17-Dec-18 21:17:29 - iteration number :  INFO --> 365
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ 7  9 -8]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 9
+17-Dec-18 21:17:29 - iteration number :  INFO --> 366
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ -8 -18  19]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> -18
+17-Dec-18 21:17:29 - iteration number :  INFO --> 367
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-13   7  14]
+17-Dec-18 21:17:29 - current best config updated :  INFO --> [ True  True  True  True False  True False  True  True False  True False
+  True False  True False  True False False  True]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 368
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ -9 -17 -15]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> -9
+17-Dec-18 21:17:29 - iteration number :  INFO --> 369
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ 7  9 -8]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 9
+17-Dec-18 21:17:29 - iteration number :  INFO --> 370
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-9 -4 10]
+17-Dec-18 21:17:29 - current best config updated :  INFO --> [ True  True  True  True False  True False  True False False  True False
+  True False  True False  True False False  True]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 371
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ 7  9 -8]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 7
+17-Dec-18 21:17:29 - iteration number :  INFO --> 372
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-4  9 -7]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 9
+17-Dec-18 21:17:29 - iteration number :  INFO --> 373
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ -7  18 -20]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> -20
+17-Dec-18 21:17:29 - iteration number :  INFO --> 374
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [20 16  5]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 5
+17-Dec-18 21:17:29 - iteration number :  INFO --> 375
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-9 10 -5]
+17-Dec-18 21:17:29 - current best config updated :  INFO --> [ True  True  True  True  True  True  True  True False False  True False
+  True False  True False  True False False False]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 376
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-5 12 14]
+17-Dec-18 21:17:29 - current best config updated :  INFO --> [ True  True  True  True False  True  True  True False False  True False
+  True False  True False  True False False False]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 377
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [20 16  5]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 20
+17-Dec-18 21:17:29 - iteration number :  INFO --> 378
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-4  9 -7]
+17-Dec-18 21:17:29 - current best config updated :  INFO --> [ True  True  True  True False  True  True  True  True False  True False
+  True False  True False  True False False  True]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 379
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-9 -4 10]
+17-Dec-18 21:17:29 - current best config updated :  INFO --> [ True  True  True  True False  True  True  True False False  True False
+  True False  True False  True False False  True]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 380
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ -7  18 -20]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> -20
+17-Dec-18 21:17:29 - iteration number :  INFO --> 381
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [20 16  5]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 382
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-4  9 -7]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 9
+17-Dec-18 21:17:29 - iteration number :  INFO --> 383
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-9 -4 10]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 10
+17-Dec-18 21:17:29 - iteration number :  INFO --> 384
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-11   5 -10]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> -11
+17-Dec-18 21:17:29 - iteration number :  INFO --> 385
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ -9 -17 -15]
+17-Dec-18 21:17:29 - current best config updated :  INFO --> [ True  True  True  True False  True  True  True False  True False False
+  True False  True  True  True False False False]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 386
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-15  -7  11]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> -15
+17-Dec-18 21:17:29 - iteration number :  INFO --> 387
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-4  9 -7]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> -7
+17-Dec-18 21:17:29 - iteration number :  INFO --> 388
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ 7  9 -8]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 9
+17-Dec-18 21:17:29 - iteration number :  INFO --> 389
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ -1  12 -10]
+17-Dec-18 21:17:29 - current best config updated :  INFO --> [False  True  True  True False  True False  True  True  True False False
+  True False False  True  True False False False]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 390
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [15 -3 18]
+17-Dec-18 21:17:29 - random variable selected for flip :  INFO --> 18
+17-Dec-18 21:17:29 - iteration number :  INFO --> 391
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [-13   7  14]
+17-Dec-18 21:17:29 - iteration number :  INFO --> 392
+17-Dec-18 21:17:29 - unsatisfied clause selected :  INFO --> [ -8 -18  19]
+17-Dec-18 21:17:30 - iteration number :  INFO --> 393
+17-Dec-18 21:17:30 - unsatisfied clause selected :  INFO --> [15 -3 18]
+17-Dec-18 21:17:30 - random variable selected for flip :  INFO --> 18
+17-Dec-18 21:17:30 - iteration number :  INFO --> 394
+17-Dec-18 21:17:30 - unsatisfied clause selected :  INFO --> [ -6   1 -18]
+17-Dec-18 21:17:30 - random variable selected for flip :  INFO --> 1
+17-Dec-18 21:17:30 - iteration number :  INFO --> 395
+17-Dec-18 21:17:30 - unsatisfied clause selected :  INFO --> [15 12 -3]
+17-Dec-18 21:17:30 - random variable selected for flip :  INFO --> -3
+17-Dec-18 21:17:30 - iteration number :  INFO --> 396
+17-Dec-18 21:17:30 - unsatisfied clause selected :  INFO --> [ -1  12 -10]
+17-Dec-18 21:17:30 - random variable selected for flip :  INFO --> -1
+17-Dec-18 21:17:30 - iteration number :  INFO --> 397
+17-Dec-18 21:17:30 - unsatisfied clause selected :  INFO --> [ -6   1 -18]
+17-Dec-18 21:17:30 - random variable selected for flip :  INFO --> 1
+17-Dec-18 21:17:30 - iteration number :  INFO --> 398
+17-Dec-18 21:17:30 - unsatisfied clause selected :  INFO --> [ -1  12 -10]
+17-Dec-18 21:17:30 - current best config updated :  INFO --> [False  True False  True False  True  True  True  True  True False False
+  True False False  True  True  True False False]
+17-Dec-18 21:17:30 - iteration number :  INFO --> 399
+17-Dec-18 21:17:30 - unsatisfied clause selected :  INFO --> [-18 -10  12]
+17-Dec-18 21:17:30 - iteration number :  INFO --> 400
+17-Dec-18 21:17:30 - solution found at flip :  INFO --> 400
+17-Dec-18 21:17:30 - solution configuration :  INFO --> [False  True False  True False  True  True  True  True  True False False
+  True False False  True  True False False False]

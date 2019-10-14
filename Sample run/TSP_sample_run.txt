@@ -1,0 +1,320 @@
+Microsoft Windows [Version 10.0.17134.471]
+(c) 2018 Microsoft Corporation. All rights reserved.
+
+(venv) C:\Users\panka\PycharmProjects\metahueristics_project2>python TSP.py inst-0.tsp
+initial distance :  24160394.254455876
+Minimum distance thus calculated :  4714673.422068192
+initial distance :  5765676.346229435
+Minimum distance thus calculated :  4190250.1566101206
+initial distance :  5487962.3619032595
+Minimum distance thus calculated :  4358739.466268498
+initial distance :  5320849.463612044
+Minimum distance thus calculated :  4235313.396866283
+end_time :  1544985099.4626627
+Best distance calculated :  4235313.396866283
+
+(venv) C:\Users\panka\PycharmProjects\metahueristics_project2>python TSP.py inst-0.tsp
+initial distance :  25236821.111848682
+Minimum distance thus calculated :  4680537.057113731
+start time :  1544985759.8913507
+initial distance :  5296756.222622047
+Minimum distance thus calculated :  4180540.6117056613
+initial distance :  4691484.419828174
+Minimum distance thus calculated :  4153395.983916015
+initial distance :  4931198.073260136
+Minimum distance thus calculated :  4173828.203202183
+end_time :  1544986116.555687
+Best distance calculated :  4173828.203202183
+
+(venv) C:\Users\panka\PycharmProjects\metahueristics_project2>python TSP.py inst-0.tsp
+initial distance :  25391530.9577827
+Minimum distance thus calculated :  4541871.114323103
+start time :  1544987175.951641
+initial distance :  5541269.994081991
+Minimum distance thus calculated :  4106984.0122754243
+initial distance :  5048085.71951484
+Minimum distance thus calculated :  4199148.346787022
+initial distance :  4954550.292568101
+Minimum distance thus calculated :  4047669.9530277667
+end_time :  1544987525.0229132
+Best distance calculated :  4047669.9530277667
+
+(venv) C:\Users\panka\PycharmProjects\metahueristics_project2>python TSP.py inst-0.tsp
+initial distance :  24215598.796192292
+Minimum distance thus calculated :  4282413.284909536
+start time :  1544987704.6449692
+initial distance :  5081401.014927885
+Minimum distance thus calculated :  4307597.339442086
+initial distance :  5034705.74433061
+Minimum distance thus calculated :  4143673.1253053253
+initial distance :  5439914.060206723
+Minimum distance thus calculated :  3940345.5324419737
+end_time :  1544988042.8409872
+Best distance calculated :  3940345.5324419737
+
+(venv) C:\Users\panka\PycharmProjects\metahueristics_project2>python TSP.py inst-0.tsp
+initial distance :  25962244.977637254
+Minimum distance thus calculated :  4772181.170676761
+start time :  1544988259.9562378
+initial distance :  5501810.418590466
+Minimum distance thus calculated :  4227636.697567795
+initial distance :  5196071.519303573
+Minimum distance thus calculated :  4098979.711186288
+initial distance :  5566325.74849485
+Minimum distance thus calculated :  4286408.317626678
+end_time :  1544988607.2740493
+Best distance calculated :  4286408.317626678
+
+(venv) C:\Users\panka\PycharmProjects\metahueristics_project2>python TSP.py inst-0.tsp
+Time Elapsed 0.07878971099853516
+initial distance :  4381510.84536768
+Minimum distance thus calculated :  4044383.974892851
+start time :  1544988858.8618305
+initial distance :  4801568.553031592
+Minimum distance thus calculated :  3991130.730623138
+initial distance :  4975135.222645518
+Traceback (most recent call last):
+  File "TSP.py", line 190, in <module>
+    tsp.main()
+  File "TSP.py", line 172, in main
+    LS_generated_tour = self.LocalSearchImplementation(curr_tour)
+  File "TSP.py", line 116, in LocalSearchImplementation
+    min_distance, min_tour = self.createCombinationsandBestSoln(first_half, second_half, curr_tour)
+  File "TSP.py", line 81, in createCombinationsandBestSoln
+    distance_5 = self.prep_structure_for_dist_calc(combo_5)
+  File "TSP.py", line 30, in prep_structure_for_dist_calc
+    distance += self.calc_distance(node1, node2)
+  File "TSP.py", line 23, in calc_distance
+    return np.linalg.norm(node2 - node1)
+KeyboardInterrupt
+
+(venv) C:\Users\panka\PycharmProjects\metahueristics_project2>python TSP.py inst-0.tsp
+initial distance :  24127028.548818644
+Minimum distance thus calculated :  5254018.060578578
+start time :  1544989295.2899206
+initial distance :  6479128.601850566
+Minimum distance thus calculated :  4269166.77602123
+initial distance :  5074988.64444962
+Minimum distance thus calculated :  4042667.9960987894
+initial distance :  5421285.098012854
+Minimum distance thus calculated :  4257275.5476100575
+end_time :  1544989634.846065
+Best distance calculated :  4257275.5476100575
+
+(venv) C:\Users\panka\PycharmProjects\metahueristics_project2>python TSP.py inst-0.tsp
+initial distance :  24782446.21575988
+Minimum distance thus calculated :  4655700.654289652
+start time :  1544989884.8051882
+initial distance :  5358907.72626583
+Minimum distance thus calculated :  3985870.4866369492
+initial distance :  5102393.368867475
+Minimum distance thus calculated :  3990155.2144237836
+initial distance :  4684583.71320007
+Minimum distance thus calculated :  4122277.3463557544
+end_time :  1544990222.777262
+Best distance calculated :  4122277.3463557544
+
+(venv) C:\Users\panka\PycharmProjects\metahueristics_project2>python TSP.py inst-0.tsp
+initial distance :  25076976.951317925
+Minimum distance thus calculated :  4773336.631810666
+start time :  1544990361.9333792
+initial distance :  6404630.708072408
+Minimum distance thus calculated :  4392478.224006212
+initial distance :  5464165.557971555
+Minimum distance thus calculated :  4275598.812070628
+initial distance :  5420012.551289756
+Minimum distance thus calculated :  4175930.814977737
+end_time :  1544990702.7082381
+Best distance calculated :  4175930.814977737
+
+(venv) C:\Users\panka\PycharmProjects\metahueristics_project2>python TSP.py inst-0.tsp
+initial distance :  24915470.18294353
+Minimum distance thus calculated :  4407289.487549474
+start time :  1544990851.3660364
+initial distance :  5438591.931588398
+Minimum distance thus calculated :  4125764.8610588037
+initial distance :  4909755.308167529
+Minimum distance thus calculated :  4192482.1089521577
+initial distance :  5362709.836356039
+Minimum distance thus calculated :  4268630.007291434
+end_time :  1544991203.2030025
+Best distance calculated :  4268630.007291434
+
+(venv) C:\Users\panka\PycharmProjects\metahueristics_project2>python TSP.py inst-0.tsp
+initial distance :  23614057.81662422
+Minimum distance thus calculated :  4567762.276469079
+start time :  1544991427.183479
+initial distance :  5178510.430462791
+Minimum distance thus calculated :  4090920.528640668
+initial distance :  5218512.934509647
+Minimum distance thus calculated :  4062279.3568693325
+initial distance :  4712173.510967446
+Minimum distance thus calculated :  3973691.004645181
+end_time :  1544991768.5407915
+Best distance calculated :  3973691.004645181
+
+(venv) C:\Users\panka\PycharmProjects\metahueristics_project2>python TSP.py inst-0.tsp
+Time Elapsed 0.07881402969360352
+initial distance :  4330380.527960358
+Minimum distance thus calculated :  3876333.530665978
+start time :  1544992100.1582885
+initial distance :  4865866.568902261
+Minimum distance thus calculated :  4179131.2169492217
+initial distance :  5437271.246948288
+Minimum distance thus calculated :  4154140.1430142885
+initial distance :  5740626.005040519
+Minimum distance thus calculated :  4317670.730117665
+end_time :  1544992441.391384
+Best distance calculated :  4317670.730117665
+
+(venv) C:\Users\panka\PycharmProjects\metahueristics_project2>python TSP.py inst-0.tsp
+Time Elapsed 0.0807809829711914
+initial distance :  4479642.426927028
+Minimum distance thus calculated :  4117471.2923949994
+start time :  1544992587.9769857
+initial distance :  4866503.974482181
+Minimum distance thus calculated :  4386698.566223034
+initial distance :  5301143.531716022
+Minimum distance thus calculated :  4275387.766084734
+initial distance :  5320984.014235905
+Minimum distance thus calculated :  4078900.17307238
+end_time :  1544992915.2015114
+Best distance calculated :  4078900.17307238
+
+(venv) C:\Users\panka\PycharmProjects\metahueristics_project2>python TSP.py inst-0.tsp
+Time Elapsed 0.07878923416137695
+initial distance :  4452335.7908942215
+Minimum distance thus calculated :  4172122.526085777
+start time :  1544993055.3691814
+initial distance :  5387027.976312589
+Minimum distance thus calculated :  4232432.280645017
+initial distance :  5455770.270907847
+Minimum distance thus calculated :  4104721.013188061
+initial distance :  5113785.72153717
+Minimum distance thus calculated :  4060303.422071987
+end_time :  1544993388.2998931
+Best distance calculated :  4060303.422071987
+
+(venv) C:\Users\panka\PycharmProjects\metahueristics_project2>python TSP.py inst-0.tsp
+Time Elapsed 0.08078312873840332
+initial distance :  4652409.497350233
+Minimum distance thus calculated :  4114049.716039792
+start time :  1544993522.0566099
+initial distance :  5287728.591435546
+Minimum distance thus calculated :  4257035.22989008
+initial distance :  5075387.104775323
+Minimum distance thus calculated :  4229999.944314766
+initial distance :  5525612.849448505
+Minimum distance thus calculated :  4567635.508061612
+end_time :  1544993867.5443678
+Best distance calculated :  4229999.944314766
+
+(venv) C:\Users\panka\PycharmProjects\metahueristics_project2>python TSP.py inst-0.tsp
+Time Elapsed 0.08975362777709961
+initial distance :  4454657.663978201
+Minimum distance thus calculated :  4003695.4086830826
+start time :  1544994051.2146862
+initial distance :  5099800.106094721
+Minimum distance thus calculated :  4253473.268402545
+initial distance :  5148347.430248444
+Minimum distance thus calculated :  4268222.197946559
+initial distance :  5076295.7588153565
+Minimum distance thus calculated :  4031364.4379859692
+end_time :  1544994416.3283858
+Best distance calculated :  4031364.4379859692
+
+(venv) C:\Users\panka\PycharmProjects\metahueristics_project2>python TSP.py inst-13.tsp
+Time Elapsed 0.3301095962524414
+initial distance :  7881295.834336387
+Minimum distance thus calculated :  7253285.850374717
+start time :  1544995521.8405638
+initial distance :  8409209.084177984
+Minimum distance thus calculated :  7399582.85510253
+end_time :  1544996403.582738
+Best distance calculated :  7399582.85510253
+
+(venv) C:\Users\panka\PycharmProjects\metahueristics_project2>python TSP.py inst-13.tsp
+Time Elapsed 0.29623985290527344
+initial distance :  7399197.428216176
+Minimum distance thus calculated :  6836194.747994753
+start time :  1544997352.4295435
+initial distance :  9186089.12365103
+Minimum distance thus calculated :  6889035.843404448
+end_time :  1544998165.774358
+Best distance calculated :  6889035.843404448
+
+(venv) C:\Users\panka\PycharmProjects\metahueristics_project2>python TSP.py inst-13.tsp
+Time Elapsed 0.32413244247436523
+initial distance :  7468211.50404859
+Minimum distance thus calculated :  6860888.1209204625
+start time :  1544999727.6350908
+initial distance :  9829712.729539203
+Minimum distance thus calculated :  7235638.200992776
+end_time :  1545000619.7405386
+Best distance calculated :  7235638.200992776
+
+(venv) C:\Users\panka\PycharmProjects\metahueristics_project2>python TSP.py inst-13.tsp
+Time Elapsed 0.295210599899292
+initial distance :  8327268.945897118
+Minimum distance thus calculated :  7264461.037973694
+start time :  1545003542.3461363
+initial distance :  11223969.9075306
+Minimum distance thus calculated :  7315001.403924905
+end_time :  1545004366.949942
+Best distance calculated :  7315001.403924905
+
+(venv) C:\Users\panka\PycharmProjects\metahueristics_project2>python TSP.py inst-13.tsp
+Time Elapsed 0.31415891647338867
+initial distance :  7343986.291822391
+Minimum distance thus calculated :  6829735.535652357
+start time :  1545005370.1092114
+initial distance :  11008325.969988
+Minimum distance thus calculated :  7226046.125909654
+end_time :  1545006200.900263
+Best distance calculated :  7226046.125909654
+
+(venv) C:\Users\panka\PycharmProjects\metahueristics_project2>python TSP.py inst-13.tsp
+initial distance :  125776581.19345765
+Minimum distance thus calculated :  8445915.590792708
+start time :  1545007381.4519088
+initial distance :  12346818.372050827
+Minimum distance thus calculated :  7540634.090002797
+end_time :  1545008206.1592402
+Best distance calculated :  7540634.090002797
+
+(venv) C:\Users\panka\PycharmProjects\metahueristics_project2>python TSP.py inst-13.tsp
+initial distance :  125740379.6391552
+Minimum distance thus calculated :  8508659.20454841
+start time :  1545010168.4512472
+initial distance :  10593134.635431694
+Minimum distance thus calculated :  7486940.561116548
+end_time :  1545010985.8637052
+Best distance calculated :  7486940.561116548
+
+(venv) C:\Users\panka\PycharmProjects\metahueristics_project2>python TSP.py inst-13.tsp
+initial distance :  123701000.96916433
+Minimum distance thus calculated :  8566587.530018678
+start time :  1545048337.3672762
+initial distance :  11069203.636555254
+Minimum distance thus calculated :  7339410.525042089
+end_time :  1545049132.859444
+Best distance calculated :  7339410.525042089
+
+(venv) C:\Users\panka\PycharmProjects\metahueristics_project2>python TSP.py inst-13.tsp
+initial distance :  127059035.0584463
+Minimum distance thus calculated :  17018503.27770522
+start time :  1545050098.5868347
+initial distance :  19621681.309008002
+Minimum distance thus calculated :  7950112.199926154
+end_time :  1545050882.746537
+Best distance calculated :  7950112.199926154
+
+(venv) C:\Users\panka\PycharmProjects\metahueristics_project2>python TSP.py inst-13.tsp
+initial distance :  126781465.92324345
+Minimum distance thus calculated :  9085442.462172395
+start time :  1545052155.5509949
+initial distance :  12864410.586882899
+Minimum distance thus calculated :  8035364.787823516
+end_time :  1545052937.2015073
+Best distance calculated :  8035364.787823516
+
